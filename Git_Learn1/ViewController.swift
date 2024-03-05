@@ -8,6 +8,9 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var word: String = "This Word"
+    var number: Int = 35
 
     override func viewDidLoad() {
         super.viewDidLoad()
