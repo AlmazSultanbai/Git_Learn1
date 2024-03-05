@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     var number2: Int = 45
     var word2: String = "Hello"
     var name: String = "Hello"
+    var surname: String = "Sultanbai"
     
     
     
