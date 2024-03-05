@@ -13,6 +13,11 @@ class ViewController: UIViewController {
     var number: Int = 35
     var number2: Int = 45
     var word2: String = "Hello"
+    var name: String = "Hello"
+    
+    
+    
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
